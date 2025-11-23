@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+}
+
+#root {
+  padding: 12px;
+}
+
+button {
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
